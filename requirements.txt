@@ -1,0 +1,24 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+backports.entry-points-selectable==1.1.0
+certifi==2021.5.30
+distlib==0.3.3
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+django-bootstrap3==15.0.0
+django-filter==21.1
+django-rest==0.8.7
+djangorestframework==3.12.4
+filelock==3.3.0
+gunicorn==20.1.0
+Pillow==8.3.2
+pipenv==2021.5.29
+platformdirs==2.4.0
+psycopg2 @ file:///C:/ci/psycopg2_1612298766762/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+review==1510
+six==1.16.0
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1624965014186/work
+virtualenv==20.8.1
+virtualenv-clone==0.5.7
+whitenoise==5.3.0
+wincertstore==0.2
